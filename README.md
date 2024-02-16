@@ -14,4 +14,4 @@ Pseudocode:
 12. Otherwise, the computer wins, so display a message indicating this.
 13. Will repeat the game loop until the player chooses to exit.
 
-EXTRA INSTRUCTION: To download the game download the "game.py" file and run it in any Python environment or Python interpreter" (For better user experience use Pycharm)
+EXTRA INSTRUCTION: To download the game go to game.zip and click on view raw and then download game.py file on your system and run it in any Python environment or Python interpreter" (For better user experience use Pycharm)
